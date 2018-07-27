@@ -6,5 +6,19 @@
     color: whitesmoke;
 }
 body{
-    
+    background-image: url("doodles.png");
+    background-repeat: repeat;
+}
+.jumbotron{
+    margin: 50px;
+}
+.leftfloat{
+    float: left;
+    margin: 10px;
+}
+h1{
+    color:teal;
+}
+footer{
+    background: gray
 }
